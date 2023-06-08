@@ -26,56 +26,77 @@ a{
 .galerie1 {
     display: flex;
     justify-content: space-between;
-    margin: 75px;
+     margin-top: 50px;
+    margin-right: 75px;
+    margin-bottom:-65px;
+    margin-left: 77px;
 }
 .galerie2 {
     display: flex;
     justify-content: space-between;
-    margin: 75px;
+    margin: 77px;
     
 }
 .galerie3{
     display: flex;
     justify-content: space-between;
     margin: 100px;
+    margin-bottom: -65px;
+    margin-top:-65px;
 
 }
 .galerie4{
     display: flex;
     justify-content: space-between;
     margin: 100px;
+     margin-bottom: -50px;
+    margin-top: 75px;
 }
 .galerie5{
     display: flex;
     justify-content: space-between;
     margin: 100px;
+    margin: 100px;
+    margin-bottom: 50px;
+    margin-top: 65px;
 }
 .galerie6{
     display: flex;
     justify-content: space-between;
     margin: 80px;
+    margin: 80px;
+    margin-bottom: -60px;
+    margin-top: -35px;
 }
 .galerie7{
     display: flex;
     justify-content: space-between;
     margin: 75px;
+     margin-bottom: 30px;
+    margin-top: 75px;
 }
 .galerie8{
     display: flex;
     justify-content: space-between;
     margin: 75px;
+     margin: 80px;
+    margin-bottom: -60px;
+    margin-top: -15px;
 }
 
 .galerie9{
     display: flex;
     justify-content: space-between;
     margin: 80px;
+    margin-top: 75px;
+    
     
 }
 footer{
     margin: 20px;
     justify-content: space-between;
     text-align: center;
+    margin-top: -55px;
     
     
 }
