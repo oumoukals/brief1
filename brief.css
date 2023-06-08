@@ -1,0 +1,85 @@
+header{
+    text-align: center;
+    font-family: ff-basic-gothic-web-pro;
+    font-style: normal;
+    letter-spacing:.2em;
+    text-transform: uppercase;
+    font-size: 10 px;
+    font-weight: 20;
+    word-spacing: 10px;
+    line-height: 30px;   
+}
+header:hover{
+    color: rgb(121, 120, 118);
+    
+}
+.nav{
+
+    word-spacing: 10px;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+}
+.galerie1 {
+    display: flex;
+    justify-content: space-between;
+    margin: 75px;
+}
+.galerie2 {
+    display: flex;
+    justify-content: space-between;
+    margin: 75px;
+    
+}
+.galerie3{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px;
+
+}
+.galerie4{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px;
+}
+.galerie5{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px;
+}
+.galerie6{
+    display: flex;
+    justify-content: space-between;
+    margin: 80px;
+}
+.galerie7{
+    display: flex;
+    justify-content: space-between;
+    margin: 75px;
+}
+.galerie8{
+    display: flex;
+    justify-content: space-between;
+    margin: 75px;
+}
+
+.galerie9{
+    display: flex;
+    justify-content: space-between;
+    margin: 80px;
+    
+}
+footer{
+    margin: 20px;
+    justify-content: space-between;
+    text-align: center;
+    
+    
+}
+body{
+    line-height: 50px;
+
+}
